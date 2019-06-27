@@ -23,7 +23,7 @@ cd ~
 git clone https://github.com/CaesarPan/stanford-ai4all-vision.git #(some of you have already done this in the class)
 ```
 
-Now if you type `ls`, you should see a folder called 'stanford-ai4all-vision' (this is where we're going to put all our work in the next two weeks!)
+Now if you type `ls`, you should see a folder called `stanford-ai4all-vision` (this is where we're going to put all our work in the next two weeks!)
 
 Here for a quick wrapup, `cd directory_path` is how you move into another folder (you should replace `directory_path` with the path of the folder you wanna go); while `ls` is the command for listing all the file names under the current folder you're at.
 
