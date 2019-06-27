@@ -18,10 +18,10 @@ Install the dependencies.
 
 First, open the terminal and run the following commands:
 
-'''
+```
 cd ~
 git clone https://github.com/CaesarPan/stanford-ai4all-vision.git #(some of you have already done this in the class)
-'''
+```
 
 Now if you type `ls`, you should see a folder called 'stanford-ai4all-vision' (this is where we're going to put all our work in the next two weeks!)
 
