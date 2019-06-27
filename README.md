@@ -1,5 +1,4 @@
-# Mapping Poverty with Computer Vision  
-# Stanford AI4ALL 2019
+# Mapping Poverty with Computer Vision <br/> Stanford AI4ALL 2019
 
 ## Prerequisites
 
