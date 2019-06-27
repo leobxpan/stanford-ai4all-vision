@@ -104,6 +104,8 @@ def download_img(lat, lon, zoom = 16, width = 224, height = 224, save = False):
     rgb = img_satellite.convert('RGB')
     rgb = rgb.crop((0, 50, width, width + 50))
     savedir = "./data/satellite_images"
+    if not os.path.exists(savedir):
+        os.makedirs(savedir)
     i = len(os.listdir(savedir))
     filename = "img_{}.jpg".format(i)
     if save:
