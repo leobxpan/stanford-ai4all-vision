@@ -32,3 +32,6 @@ After you've done all of these, you now want to navigate into our work folder! L
 Now you're inside of this repo, just type `jupyter notebook` to do the same magic we did in the class.
 
 You're ready for the homework at this point. Get started!
+
+You can find the slides for Day 1 at:
+https://docs.google.com/presentation/d/1qdbc4dieya-2zOC5T4PHt3AZvdbTChb2GUlY6Hgyyag/edit?usp=sharing
