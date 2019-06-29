@@ -29,7 +29,7 @@ Here for a quick wrapup, `cd directory_path` is how you move into another folder
 
 After you've done all of these, you now want to navigate into our work folder! Let's do this by `cd stanford-ai4all-vision`.
 
-Now you're inside of this repo, just type `jupyter notebook` to do the same magic we did in the class.
+Now you're inside of this repo, just type `jupyter notebook` to do the same magic we did in the class. (remember to start jupyter notebook inside `stanford-ai4all-vision` folder!)
 
 You're ready for the homework at this point. Get started!
 
