@@ -29,9 +29,23 @@ Here for a quick wrapup, `cd directory_path` is how you move into another folder
 
 After you've done all of these, you now want to navigate into our work folder! Let's do this by `cd stanford-ai4all-vision`.
 
-Now you're inside of this repo, just type `jupyter notebook` to do the same magic we did in the class.
+Now you're inside of this repo, just type `jupyter notebook` to do the same magic we did in the class. (remember to start jupyter notebook inside `stanford-ai4all-vision` folder!)
 
 You're ready for the homework at this point. Get started!
 
 You can find the slides for Day 1 at:
 https://docs.google.com/presentation/d/1qdbc4dieya-2zOC5T4PHt3AZvdbTChb2GUlY6Hgyyag/edit?usp=sharing
+
+## Instructions for Day 2
+
+**Important: DON'T use any git command from today!!**
+
+First go to our shared Google Drive and enter our folder `Mapping Global Poverty`. The slides are under the `Slides` folder and will be continuously updated.
+
+Then for Day 2's homework, first download everything under the `Homework -> Day 2` folder (including one `machine_learning` folder and one `utils` folder as well as a `machine_learning.ipynb` file).
+
+Next, put all of these stuffs under the folder `notebooks`, which is under `stanford-ai4all-vision` you got yesterday (note that you already have a `utils` folder, so just copy paste all files under the new `utils` you just downloaded into the original `utils` folder).
+
+Now you should have everything set up. For today's homework you just need to finish `machine_learning.ipynb`, which requires you to finish several functions defined in `machine_learning/model_helpers.py`.
+
+Have fun!
