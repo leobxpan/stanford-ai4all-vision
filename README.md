@@ -53,3 +53,5 @@ Have fun!
 ## Instructions for Day 3
 
 Today's homework is to finish `image_ops.ipynb` which is under `Day 3` folder in our shared Google Drive.
+
+Also you can find the `numpy_tutorial.ipynb` we used in today's work session in the same place.
