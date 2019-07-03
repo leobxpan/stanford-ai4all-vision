@@ -49,3 +49,7 @@ Next, put all of these stuffs under the folder `notebooks`, which is under `stan
 Now you should have everything set up. For today's homework you just need to finish `machine_learning.ipynb`, which requires you to finish several functions defined in `machine_learning/model_helpers.py`.
 
 Have fun!
+
+## Instructions for Day 3
+
+Today's homework is to finish `image_ops.ipynb` which is under `Day 3` folder in our shared Google Drive.
