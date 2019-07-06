@@ -55,3 +55,10 @@ Have fun!
 Today's homework is to finish `image_ops.ipynb` which is under `Day 3` folder in our shared Google Drive.
 
 Also you can find the `numpy_tutorial.ipynb` we used in today's work session in the same place.
+
+## Project Instructions for July 6 (no idea which day is this)
+
+The main task today is to get all the data ready. Concretely, you want to load in all the data and split them into different sets. If you get these done, you can try to construct a fully-connected neural network as a baseline model.
+
+All the data is in `notebooks/data/assorted_images/satellite_images.h5`. You probably want to do some search about how to play with `h5` files and how to index the data in it.
+
